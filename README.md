@@ -48,3 +48,8 @@ from Panoramic Radiographs},
   doi = {DOI_HERE}
 }
 
+## 📥 Download
+
+Download the dataset from the following link:  
+https://drive.google.com/drive/folders/1PsSUrDICPX-t3PNmHvV1ulKaoqFUHDSo?usp=sharing
+---
