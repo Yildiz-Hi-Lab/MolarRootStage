@@ -32,6 +32,12 @@ The dataset is divided into five distinct subsets (DB-1 to DB-5) based on root d
 ## Potential Applications
 This dataset and the associated CNN models provide a valuable tool for dental diagnostics, particularly in assisting clinicians with treatment planning based on root development stages.
 
+## 📥 Download
+
+Download the dataset from the following link:  
+https://drive.google.com/drive/folders/1PsSUrDICPX-t3PNmHvV1ulKaoqFUHDSo?usp=sharing
+
+
 ## Citation
 If you use this dataset in your research, please cite our work:
 ```
@@ -48,8 +54,4 @@ from Panoramic Radiographs},
   doi = {DOI_HERE}
 }
 
-## 📥 Download
 
-Download the dataset from the following link:  
-https://drive.google.com/drive/folders/1PsSUrDICPX-t3PNmHvV1ulKaoqFUHDSo?usp=sharing
----
